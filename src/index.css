@@ -1,0 +1,174 @@
+@font-face {
+  font-family: 'colbolight_semiextended';
+  src: url('./fonts/colbo-lightsemiextended.woff2') format('woff2'),
+       url('./fonts/colbo-lightsemiextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboregular_condensed';
+  src: url('./fonts/colbo-regularcondensed.woff2') format('woff2'),
+       url('./fonts/colbo-regularcondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboregular_extended';
+  src: url('./fonts/colbo-regularextended.woff2') format('woff2'),
+       url('./fonts/colbo-regularextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboregular_semicondensed';
+  src: url('./fonts/colbo-regularsemicondensed.woff2') format('woff2'),
+       url('./fonts/colbo-regularsemicondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboregular_semiextended';
+  src: url('./fonts/colbo-regularsemiextended.woff2') format('woff2'),
+       url('./fonts/colbo-regularsemiextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboultra_black_condensed';
+  src: url('./fonts/colbo-ultrablackcondensed.woff2') format('woff2'),
+       url('./fonts/colbo-ultrablackcondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboultra_black_extended';
+  src: url('./fonts/colbo-ultrablackextended.woff2') format('woff2'),
+       url('./fonts/colbo-ultrablackextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboultraBlkSCn';
+  src: url('./fonts/colbo-ultrablacksemicondensed.woff2') format('woff2'),
+       url('./fonts/colbo-ultrablacksemicondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboultra_black_semiextended';
+  src: url('./fonts/colbo-ultrablacksemiextended.woff2') format('woff2'),
+       url('./fonts/colbo-ultrablacksemiextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboblack_condensed';
+  src: url('./fonts/colbo-blackcondensed.woff2') format('woff2'),
+       url('./fonts/colbo-blackcondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboblack_extended';
+  src: url('./fonts/colbo-blackextended.woff2') format('woff2'),
+       url('./fonts/colbo-blackextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboblack_semicondensed';
+  src: url('./fonts/colbo-blacksemicondensed.woff2') format('woff2'),
+       url('./fonts/colbo-blacksemicondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colboblack_semiextended';
+  src: url('./fonts/colbo-blacksemiextended.woff2') format('woff2'),
+       url('./fonts/colbo-blacksemiextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbobold_condensed';
+  src: url('./fonts/colbo-boldcondensed.woff2') format('woff2'),
+       url('./fonts/colbo-boldcondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbobold_extended';
+  src: url('./fonts/colbo-boldextended.woff2') format('woff2'),
+       url('./fonts/colbo-boldextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbobold_semicondensed';
+  src: url('./fonts/colbo-boldsemicondensed.woff2') format('woff2'),
+       url('./fonts/colbo-boldsemicondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbobold_semiextended';
+  src: url('./fonts/colbo-boldsemiextended.woff2') format('woff2'),
+       url('./fonts/colbo-boldsemiextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbodingbat';
+  src: url('./fonts/colbo-dingbat.woff2') format('woff2'),
+       url('./fonts/colbo-dingbat.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbolight_condensed';
+  src: url('./fonts/colbo-lightcondensed.woff2') format('woff2'),
+       url('./fonts/colbo-lightcondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbolight_extended';
+  src: url('./fonts/colbo-lightextended.woff2') format('woff2'),
+       url('./fonts/colbo-lightextended.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colbolight_semicondensed';
+  src: url('./fonts/colbo-lightsemicondensed.woff2') format('woff2'),
+       url('./fonts/colbo-lightsemicondensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'colbolight_extended';
+  text-align: right;
+  background-color: #232323;
+}
